@@ -1,0 +1,20 @@
+/Users/caidennelson/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57333:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/caidennelson/IdeaProjects/UNWSP Java Class/out/production/Week 13 BicycleExample
+Would you like to calculate how long it will take you to go x miles.
+yes
+How many miles do you want to go?
+10
+It will take you 485.5178 minutes to go 10 miles at this 45 cadence
+Would you like to change your cadence to go faster?
+yes
+What would you like your new cadence to be 
+60
+How many miles do you want to go?
+10
+It will take you 364.13834 minutes to go 10 miles at this 60 cadence
+Would you like to change your cadence to go faster?
+no
+Would you like to change how far you are biking?
+no
+Goodbye
+
+Process finished with exit code 0
